@@ -1,0 +1,60 @@
+{
+  "navbar": {
+    "home": "Home",
+    "products": "Products",
+    "aboutus": "About Us",
+    "contactus": "Contact Us",
+    "whyus": "Why Us",
+    "language": "Language"
+  },
+  "language": {
+    "en": "English",
+    "hindi": "Hindi",
+    "zh": "Chinese",
+    "fr": "French",
+    "det": "Dutch"
+  },
+  "products": {
+    "plastics": "Plastics",
+    "agro": "Agro"
+  },
+  "plastics": {
+    "boppPlasticGranules": "BOPP/PP Plastic Granules",
+    "evaPlasticGranules": "EVA / PP Plastic Granules",
+    "lldpPlasticGranules": "LD / LLDP Plastic Granules",
+    "hdpePlasticGranules": "HD / HDPE Plastic Granules",
+    "raffiaBlue": "RAFFIA BLUE",
+    "pureEva": "PURE EVA",
+    "hdpeBlack": "HDPE BLACK",
+    "raffiaYellow": "RAFFIA YELLOW"
+  },
+  "others": {
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "aboutus": {
+    "weare": "WE ARE",
+    "awesome": "AWESOME",
+    "worldIsOneFamily": "WORLD IS ONE FAMILY",
+    "para_1": "Coming from Maha Upnishad, endorsing ‘World is one family’. With the vision to grow with the family, SOM Group laid it’s foundation in the year 2020. SOM Group is certified under the ISO (IAF) 9001:2015 Quality Management System.",
+    "para_2": "We are Growth Oriented Export-Import firm dealing with Plastics, Agricultural Products and etc.. We are focused on farmers and manufacturers across the world to abridge the opportunities of expanding their businesses to global consumer base.",
+    "para_3":"We aim to empower the Indian Agriculturists &amp; Agronomists with their 100 % Natural and High Quality products which holds great value in terms of Nutrition, Demand and Prices in the International Market by eliminating the middleman cost. We bridge the gap between buyers and sellers by providing them this great platform where they receive premium prices for their demand and supply.",
+    "para_4": "Similarly we empower and assist Indian Manufacturers with Global Market opportunities and raw material of Premium Quality at economic prices. We aim for Indian Consumers to assist them with the best quality products at reasonable prices."
+  },
+  "whyus": {
+    "why": "Why",
+    "somgroup": "SOM GROUP ?",
+    "somgroups": "SOM Group’s",
+    "para_1": "foundation pillars makes it unique. We stand on the principals and values of - UNDERSTANDING / COMPREHENSION, TRUST, SERVICE and QUALITY.",
+    "understanding_title": "Understanding / Comprehension -",
+    "understanding_content_1":"We take our USP on our comprehension. We believe '",
+    "understanding_content_2":"A well understood demand is the best served supply.",
+    "understanding_content_3": "’ We are so sensitive when it comes to our clients demand. Our Business Analyst team focuses on understanding the requirements of the client in an empathetic manner and then providing customized solution to the client.",
+    "trust_title": "Trust - ",
+    "trust_content_1":"In Today’s world of Global Village and digitization, what most people fear is the credence and eventually lack faith. We at SOM Group believes it to be the matter of great redressal. On that account we keep our functioning open and credentials of our authenticity evident. We are certified with…… , registered under…… , recognized and supported by Government of India. (Our company is certified under the ISO (IAF) 9001:2015 quality management system.)",
+    "service_title": "Service - ",
+    "service_content_1": "We offer a range of professional customer-focused services and approaches to help you grow your business. Expertise and insight regarding regulations in different countries with enormous capacity and ability to supply products and services all over the year. We deal in all categories of agricultural Products, Rubber and plastic products, etc. based on client’s requirements. We are one stop solution to Farmers, Manufacturers, Entrepreneurs, Enterprises, MSMEs, Merchants, Retailers, Consumers and Importer-Exporter of all sort of product and services.",
+    "quality_title": "Quality - ",
+    "quality_content_1": "SOM Group works for the growth &amp; development of all and practices the ‘Direct contact with all’ policy. We procure the product directly from the manufacturers/ farmers without any middle man ensuring quality at each level and moving ahead only when tested and verified. Our system makes the quality check process so well-grounded and concrete. The quality of our products and services makes us outstand in the market."
+    }
+}
